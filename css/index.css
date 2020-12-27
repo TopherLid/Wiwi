@@ -1,0 +1,111 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #000000;
+}
+
+/* barra con logo*/
+.topnav-center {
+    text-align: center;
+    background-color: #000000;
+    color:#f00000;
+    margin-bottom:25px ;
+}
+
+.topnav-center a{
+    text-decoration:none;
+}
+
+/* barra de navegacion*/
+
+.topnav a{
+    color: #000000;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: green;
+    color:#000000;
+}
+
+.topnav__ul{
+    background-color: #000000;
+    text-align: center;  
+}
+
+.topnav__li{
+    background-color: #000000;
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    font-size: 23px;
+    border-top: 3px solid greenyellow;
+}   
+
+.topnav__li a{
+    text-decoration:none;
+    color:#ffffff; 
+}   
+
+
+
+
+
+
+article{
+    background-color: #9b9b9b;
+}
+
+.feed {
+    height: 50px;
+    text-align: center;
+    border-top: 25px;
+}
+
+.noticia{
+    margin-left: 100px;
+    display: inline-block;
+    background-color:#ffffff;
+    color:#000000;
+    padding: 10px;
+    width: 50%;
+    border-bottom: 3px solid black;
+
+}
+.noticia img{
+    float: left;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.bordeDerecho{
+    display: block;
+    width: 30%;
+}
+
+#contactos {
+    background-color: #f00000; 
+    color: #000000;
+    display: block;   
+}
+
+#copyright{
+    background-color: #f00000; 
+    color: #000000;
+    text-align: center;
+}
+   
+/* 
+.clase {
+#id{
+    (atributo)[rancio="sii"]
+line-height
+
+@media only screen and(max-width: 800px){
+    
+}
+
+
+
+/*border-radius: 20px;*/
