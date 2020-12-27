@@ -1,0 +1,49 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #000000;
+}
+
+/* barra con logo*/
+.topnav-center {
+    text-align: center;
+    background-color: #000000;
+    color:#f00000;
+    margin-bottom:25px ;
+}
+
+.topnav-center a{
+    text-decoration:none;
+}
+
+/* barra de navegacion*/
+
+.topnav a{
+    color: #000000;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: green;
+    color:#000000;
+}
+
+.topnav__ul{
+    background-color: #000000;
+    text-align: center;  
+}
+
+.topnav__li{
+    background-color: #000000;
+    display: inline-block;
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    border-top: 3px solid greenyellow;
+}   
+
+.topnav__li a{
+    text-decoration:none;
+    color:#ffffff; 
+} 
